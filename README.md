@@ -1,8 +1,7 @@
 # SUMGlobal/rpi-mongodb
 Docker Raspberry MongoDB 3.2.15 Build
 
-This file already has the qemu cross compile built into its base image. The mongo binaries are built from source on a raspberry pi 3 using this as a refernce
-this post. [http://koenaerts.ca/compile-and-install-mongodb-on-raspberry-pi/](http://koenaerts.ca/compile-and-install-mongodb-on-raspberry-pi/)
+This file already has the qemu cross compile built into its base image. The mongo binaries are built from source on a raspberry pi 3 using this post as a reference: [http://koenaerts.ca/compile-and-install-mongodb-on-raspberry-pi/](http://koenaerts.ca/compile-and-install-mongodb-on-raspberry-pi/)
 
 1) git clone
 
